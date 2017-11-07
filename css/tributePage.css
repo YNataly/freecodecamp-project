@@ -369,10 +369,13 @@ visibility: hidden;
     }
 /*---------------------------------*/
 @media (min-width: 1000px) {
+    .slideshow {
+    margin-top: 0.5em;
+    }
 
     section.content {
-        margin: 2em 5%;
-        padding-top: 3em;   
+        margin: 0.5em 5%;
+        padding-top: 2em;   
         
     }
 
@@ -382,6 +385,7 @@ visibility: hidden;
 
     .content h1 {
         font-size: 4em;
+        margin-bottom: 0.1em;
     }
 
     .content h2 {
